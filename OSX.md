@@ -48,9 +48,8 @@ brew install caskroom/cask/brew-cask
 ## Install apps
 ```
 brew cask install caffeine
+brew cask install firefox
 brew cask install google-chrome
-brew cask install google-drive
-brew cask install google-hangouts
 brew cask install iterm2
 brew cask install sublime-text
 
