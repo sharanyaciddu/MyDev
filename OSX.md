@@ -34,6 +34,7 @@ brew install git
 brew install jenkins
 brew install maven
 brew install ant
+brew install tree
 
 ```
 
